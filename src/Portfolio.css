@@ -1,0 +1,14 @@
+.text {
+  margin-left: 100px;
+  margin-right: 100px;
+  border-color: black;
+  border-width: 20px;
+}
+
+.a:link {
+  color: pink;
+}
+
+.a:visited {
+  color: pink;
+}

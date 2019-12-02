@@ -1,0 +1,46 @@
+.banner-container {
+    min-height: 100px;
+    width: 100%;
+    background: silver;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.banner-navigation {
+    display: flex;
+    justify-content: flex-end;
+    flex-grow: 1;
+}
+
+.title {
+    color: black;
+}
+
+.banner-navigation-item {
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+
+.sticky-nav {
+    position: sticky;
+    top: 0;
+    display: flex;
+  }
+
+.active {
+    font-weight: bold;
+}
+
+.min-height {
+    min-height: 70px;
+}
+
+@media (max-width: 768px) {
+    .my-div {
+        display: none;
+    }
+}

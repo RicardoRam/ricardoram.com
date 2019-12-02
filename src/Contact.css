@@ -1,0 +1,15 @@
+.contact-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.terminal-container {
+    min-width: 400px;
+    width: 75%;
+    height: 75%;
+    margin: 80px;
+}

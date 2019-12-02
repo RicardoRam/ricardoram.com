@@ -1,0 +1,29 @@
+.section {
+  justify-content: center;
+  text-align: center;
+  border-width: 20px;
+  border-color: black;
+}
+
+ul {
+  list-style-type: none;
+}
+
+
+.h2 {
+  margin: 20px;
+}
+
+button {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 8;
+}
+
+.text {
+  margin-left: 100px;
+  margin-right: 100px;
+  border-color: black;
+  border-width: 20px;
+}
